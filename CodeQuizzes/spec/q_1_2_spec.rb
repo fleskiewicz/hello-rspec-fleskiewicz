@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_1'
+require '../lib/q1_2'
 
 describe "#average_word_length" do
   it "returns average word length" do
