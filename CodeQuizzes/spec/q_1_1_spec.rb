@@ -1,3 +1,4 @@
+require 'rspec'
 require '../lib/q1_1'
 
 describe "#word_count" do
