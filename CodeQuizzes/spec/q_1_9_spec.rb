@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_15'
+require '../lib/q1_9'
 
 describe "#date_convertible?" do
   it "returns true if can be converted to date" do
