@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_4'
+require_relative '../lib/q1_4'
 
 describe "#vowels" do
   it "returns array of words with vowels" do

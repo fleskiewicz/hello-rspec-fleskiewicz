@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_6'
+require_relative '../lib/q1_6'
 
 describe "#strip_whitespace" do
   it "removes all whitespace" do

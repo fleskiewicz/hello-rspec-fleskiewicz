@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q2_11'
+require_relative '../lib/q2_11'
 
 describe "#index_of_max" do
   it "returns index of largest array element" do

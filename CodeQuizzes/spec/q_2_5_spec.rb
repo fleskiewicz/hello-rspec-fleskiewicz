@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q2_5'
+require_relative '../lib/q2_5'
 
 describe "#hashify" do
   it "converts to hash" do

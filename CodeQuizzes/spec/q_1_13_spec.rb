@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_13'
+require_relative '../lib/q1_13'
 
 describe "#to_money" do
   it "converts float to money format" do

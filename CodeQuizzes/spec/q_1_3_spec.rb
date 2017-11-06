@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_3'
+require_relative '../lib/q1_3'
 
 describe "#palindrome?" do
   it "returns true if string is a palindrome" do

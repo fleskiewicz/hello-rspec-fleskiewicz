@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_5'
+require_relative '../lib/q1_5'
 
 describe "#start_with_c?" do
   it "returns true if all words begin with 'c'" do

@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q2_3'
+require_relative '../lib/q2_3'
 
 describe "#mean" do
   it "calculates average" do

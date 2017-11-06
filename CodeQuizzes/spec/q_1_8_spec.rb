@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_8'
+require_relative '../lib/q1_8'
 
 describe "#delete_last" do
   it "removes last n elements from string" do

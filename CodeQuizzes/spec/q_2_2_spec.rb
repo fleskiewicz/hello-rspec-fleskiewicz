@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q2_2'
+require_relative '../lib/q2_2'
 
 describe "#sort_by_length" do
   it "orders words from smallest to largest" do

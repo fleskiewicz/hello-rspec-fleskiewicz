@@ -1,5 +1,5 @@
 require 'rspec'
-require '../lib/q1_1'
+require_relative '../lib/q1_1'
 
 describe "#word_count" do
   it "returns number of words in a string" do
