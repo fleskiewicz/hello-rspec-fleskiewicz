@@ -34,4 +34,8 @@ describe "#of_dna" do
     expect(Complement.of_dna("ACGTXXXCTTAA")).to eql('')
   end
 
+  it "returns 4 for 'BookKeeping::VERSION'" do
+    expect(BookKeeping::VERSION) == 4
+  end
+
 end
