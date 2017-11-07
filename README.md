@@ -1,5 +1,4 @@
-# **Ruby testing 2017/2018**
-# University of Gdańsk
+# **Ruby testing 2017/2018**, University of Gdańsk
 
 ## Lecturer & Tutor - [Włodzimierz Bzyl](https://github.com/wbzyl)
 
