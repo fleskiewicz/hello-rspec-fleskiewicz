@@ -1,10 +1,11 @@
-# **Testowanie aplikacji Ruby 2017/2018**
+# **Ruby testing 2017/2018**
+# University of Gdańsk
 
-## Prowadzący - [Włodzimierz Bzyl](https://github.com/wbzyl)
+## Lecturer & Tutor - [Włodzimierz Bzyl](https://github.com/wbzyl)
 
-## Student - [Filip Leśkiewicz](https://github.com/fleskiewicz)
+### Student - [Filip Leśkiewicz](https://github.com/fleskiewicz) (240913)
 
-### Spis treści
+#### Table of contents
 * [Code Quizzes](https://github.com/my-rspec/hello-rspec-fleskiewicz/tree/master/CodeQuizzes)
 	* Ruby TDD quizes answers
 	* <http://www.codequizzes.com/ruby>
