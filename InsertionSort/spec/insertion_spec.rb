@@ -50,6 +50,18 @@ describe "#sort_asc" do
       .to eq([-57, -22])
   end
 
+  it "should proper ascending sort mixed integers" do
+    array = [-567, 22, -1, 99, 32, -12, -49, -33]
+    expect(sort_asc(array))
+      .to eq([-567, -49, -33, -12, -1, 22, 32, 99])
+  end
+
+  it "should proper ascending sort mixed integers and decimals" do
+    array = [-33, 22.192, 93.11, -9.01, 403.22, -1.39]
+    expect(sort_asc(array))
+      .to eq([-33, -9.01, -1.39, 22.192, 93.11, 403.22])
+  end
+
   it "should proper ascending sort small letters array" do
     array = ['y', 'l', 's', 'c', 'g']
     expect(sort_asc(array))
