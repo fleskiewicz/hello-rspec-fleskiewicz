@@ -19,7 +19,7 @@
 	* Ruby implementation of Insertion Sort
 	* Ascending and descending methods
 	* Implemented tests using RSpec
-* [Exam project]
+* Exam project
 	* TO DO
 
 
