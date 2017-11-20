@@ -4,4 +4,4 @@ rvm:
 script:
   - cd MiniTest; bundle install; bundle exec rspec -fd; cd ..
   - cd CodeQuizzes; bundle install; bundle exec rspec -fd; cd ..
-  - cd BinarySearchTree; bundle install; bundle exec rspec -fd; cd ..
+  - cd InsertionSort; bundle install; bundle exec rspec -fd; cd ..
